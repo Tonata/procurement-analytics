@@ -1,0 +1,51 @@
+SupplierID,SupplierName,Region,SupplierRiskScore,SupplierQualityRating,OnTimeDeliveryRate,SupplierAuditScore,SupplierDiversity
+SUP1000,Moore-Morris,New Hampshire,0.48,78,90.84,90,False
+SUP1001,Brown-Smith,Missouri,0.73,77,84.58,90,True
+SUP1002,Williams Chavez and Stein,Mississippi,0.73,70,90.73,78,False
+SUP1003,Richardson LLC,South Dakota,0.2,73,76.09,74,True
+SUP1004,Diaz Inc,Illinois,0.79,93,86.12,92,True
+SUP1005,Butler Ltd,Hawaii,0.51,98,93.39,74,False
+SUP1006,Benjamin-Houston,Oklahoma,0.32,78,95.25,75,False
+SUP1007,Ruiz Inc,Vermont,0.63,70,97.08,74,False
+SUP1008,Rodriguez Martin and Cervantes,Mississippi,0.95,96,93.79,82,False
+SUP1009,Ho-Arellano,Maryland,0.15,70,90.91,94,True
+SUP1010,Clark Hodge and Clark,Montana,0.97,79,95.72,78,True
+SUP1011,Chase Sullivan and Erickson,Delaware,0.13,70,92.01,97,False
+SUP1012,Avila PLC,West Virginia,0.13,83,80.3,79,True
+SUP1013,Galloway Johnson and Macias,Arkansas,0.54,74,76.89,79,False
+SUP1014,Osborne Powell and Madden,Alaska,0.12,72,83.78,86,False
+SUP1015,Robles Lewis and Clark,Florida,0.28,89,91.96,72,True
+SUP1016,Blair Group,Maryland,0.58,86,89.28,80,False
+SUP1017,Sanders-Flores,Arkansas,0.04,75,82.16,91,True
+SUP1018,Sharp Ltd,Illinois,0.11,92,89.19,77,False
+SUP1019,Hawkins Hooper and Ferguson,Vermont,0.39,81,97.35,99,True
+SUP1020,Hicks Barker and Fleming,Washington,0.94,99,81.59,79,True
+SUP1021,Carter-Anderson,Hawaii,0.77,83,95.44,93,True
+SUP1022,Briggs and Sons,Illinois,0.22,87,75.59,70,True
+SUP1023,Jones Moody and Yang,Idaho,0.36,92,84.64,80,True
+SUP1024,Underwood-Murphy,South Dakota,0.84,72,94.41,96,False
+SUP1025,Foster Ltd,Maryland,0.68,85,83.38,76,False
+SUP1026,Buckley Crawford and Tran,Alaska,0.35,83,96.13,81,True
+SUP1027,Coleman Walton and Williams,Montana,0.74,86,79.81,74,True
+SUP1028,Jenkins-Riley,Georgia,0.35,78,79.78,95,True
+SUP1029,Smith-Brown,New Jersey,0.73,86,75.71,91,False
+SUP1030,Grant-Carroll,Nebraska,0.45,90,80.98,76,True
+SUP1031,Jackson-Young,New Hampshire,0.46,72,90.78,84,True
+SUP1032,Chan Gomez and Rodriguez,New York,0.19,79,99.1,84,False
+SUP1033,Gonzales and Sons,Colorado,0.93,78,90.97,77,False
+SUP1034,Coleman-Franklin,Utah,0.4,92,98.01,83,False
+SUP1035,Oneal Ltd,Wyoming,0.43,73,97.86,81,False
+SUP1036,Gomez-Olson,New York,0.3,97,78.09,94,True
+SUP1037,Fuller PLC,North Carolina,0.88,74,88.74,78,True
+SUP1038,Leblanc Willis and Farrell,Nevada,0.97,71,88.33,77,True
+SUP1039,Goodman-Jones,Colorado,0.95,76,87.48,80,True
+SUP1040,Jackson PLC,Louisiana,0.32,99,93.74,71,True
+SUP1041,Brown Flores and Madden,Montana,0.59,100,85.44,84,False
+SUP1042,Wilson Williamson and Davis,Michigan,0.66,89,98.39,80,False
+SUP1043,Mendoza Johnson and Morgan,Maryland,0.85,89,98.85,76,False
+SUP1044,Johnson-Robinson,Massachusetts,0.37,86,90.59,84,True
+SUP1045,Ferrell Inc,Mississippi,0.78,96,93.01,78,True
+SUP1046,Thomas PLC,Pennsylvania,0.41,93,84.97,89,True
+SUP1047,Stone-Adams,Georgia,0.69,81,88.43,94,True
+SUP1048,Bass Foster and Yang,Rhode Island,0.78,70,92.09,98,False
+SUP1049,Carson-Johnson,North Dakota,0.79,92,91.81,93,True
